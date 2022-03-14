@@ -37,7 +37,7 @@
 
 ```ruby
 
-class TodoList
+class TaskList
   def add(todo_task)
   end
 
